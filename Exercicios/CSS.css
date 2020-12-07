@@ -1,0 +1,137 @@
+.texto-paragrafos {
+
+    text-align: justify;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.titulos{
+
+    text-align: center;
+    font-family: 'Georgia', serif;
+    background-color: 4895EF;
+}
+
+
+.menu ul{
+
+    padding: 0px;
+    margin: 0px;
+    float: left;
+    background-color: #4895EF;
+    width: 100%;
+}
+
+.menu ul li{display: inline;}
+
+.menu ul li a{
+
+    padding: 15px 15px;
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+    font-family: Tahoma;
+
+}
+.menu ul li a:hover{
+
+    color: teal;
+}
+
+.menu-dois ul{
+
+    padding: 0px;
+    margin: 0px;
+    float: left;
+    background-color: #AACC00;
+    width: 100%;
+}
+
+.menu-dois ul li{display: inline;}
+
+.menu-dois ul li a{
+
+    padding: 15px 15px;
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+    font-family: Tahoma;
+
+}
+.menu-dois ul li a:hover{
+
+    color: #007f5f;
+
+}
+.subtitulo-home{
+
+    text-align: center;
+    font-family: Tahoma;
+}
+
+.imagem li{
+    display: inline;
+    float: left;
+    width: 240px;
+    margin-left: 2px;
+    padding: 70px 70px;
+}
+
+.item li{
+
+    float: left;
+    width: 240px;
+    margin-top: 5px;
+    padding: 8px 8px;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+.item li:hover{
+
+    color: #007f5f;
+
+}
+
+.texto-cabecalho{
+
+    text-align: center;
+    font-family: 'Tahoma';
+    color: white;
+    background-color: #80d918;
+    width: 300px;
+    padding: 10px 10px;
+
+}
+
+.texto-lista{
+
+    text-align: center;
+    font-family: 'Tahoma';
+    color: black;
+    width: 300px;
+    padding: 10px 10px;
+
+}
+
+.tabela-margin{
+    
+    margin-left: 25%;
+    margin-top: 5%;
+}
+
+.subtitulo{
+
+    font-family: tahoma;
+    color: #6C757D;
+}
+
+.estilo-total{
+
+    text-align: center;
+    font-family: 'Tahoma';
+    color: black;
+    background-color: #B7B7A4;
+    width: 300px;
+    padding: 10px 10px;
+
+}
